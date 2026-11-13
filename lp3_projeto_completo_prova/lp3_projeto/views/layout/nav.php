@@ -1,0 +1,23 @@
+<aside class="sidebar">
+    <div class="sidebar-header">
+        <h3>Menu</h3>
+    </div>
+
+    <nav class="sidebar-nav" aria-label="Menu lateral">
+        <ul>
+            <li><a href="/lp3_projeto/">Início</a></li>
+            <li><a href="/lp3_projeto/categorias">Categorias</a></li>
+            <li><a href="/lp3_projeto/produtos">Produtos</a></li>
+            <li><a href="/lp3_projeto/clientes">Clientes</a></li>
+            <li><a href="/lp3_projeto/filmes">Filmes</a></li>
+            <li><a href="/lp3_projeto/generos">Gêneros</a></li>
+            <li><a href="/lp3_projeto/livros">Livros</a></li>
+            <li><a href="/lp3_projeto/eventos">Eventos</a></li>
+            <li><a href="/lp3_projeto/funcionarios">Funcionários</a></li>
+            <li><a href="/lp3_projeto/fornecedores">Fornecedores</a></li>
+            <li><a href="/lp3_projeto/cursos">Cursos</a></li>
+            <li><a href="/lp3_projeto/noticias">Notícias</a></li>
+            <li><a href="/lp3_projeto/usuarios">Usuários</a></li>
+        </ul>
+    </nav>
+</aside>
